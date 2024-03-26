@@ -6,4 +6,5 @@ rstan version 2.26.23 (Stan version 2.26.1)
 **Content**
 
 - Chapter 3 Inferences with binomials
+- Chapter 4 Inferences with Gaussians
 - Coming soon......
